@@ -17,3 +17,8 @@ export CMAKE_ARGS="-DWITH_FFMPEG=ON \
 
 pip3 wheel . --verbose
 
+
+
+
+#link if you want to try install
+https://mega.nz/file/zL5WlTLD#BVVyDkb0I8iLSyUebA3Nlc3vWlLn6F9Vd7xjw3F9Cd8
